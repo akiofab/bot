@@ -1,0 +1,18 @@
+{
+  "name": "Bot",
+  "version": "2.0.0",
+  "description": "Upvote Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.6.0"
+  },
+    "dependencies": {
+    "discord.js": "^11.2.1",
+    "discordie": "^0.11.0",
+    "steem": "^0.6.4"
+  }
+}
